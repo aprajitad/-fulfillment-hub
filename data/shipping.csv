@@ -1,0 +1,35 @@
+order_id,courier,staging_location,pickup_time,pickup_status
+ORD1001,QuickShip,Staging A1,2026-10-01 18:51,Picked Up
+ORD1007,SpeedEx,Staging A2,2026-10-01 00:51,Missed
+ORD1008,QuickShip,Staging A2,2026-10-03 18:51,Picked Up
+ORD1012,SpeedEx,Staging A2,2026-09-29 11:51,Picked Up
+ORD1015,ParcelGo,Staging A2,2026-10-02 22:51,Waiting
+ORD1016,QuickShip,Staging B1,2026-10-02 04:51,Picked Up
+ORD1021,SpeedEx,Staging B1,2026-10-04 03:51,Waiting
+ORD1023,SpeedEx,Staging B1,2026-09-29 10:51,Waiting
+ORD1024,SpeedEx,Staging B1,2026-09-30 16:51,Picked Up
+ORD1027,SpeedEx,Staging A1,2026-10-03 19:51,Picked Up
+ORD1028,SpeedEx,Staging A1,2026-09-29 17:51,Picked Up
+ORD1040,ParcelGo,Staging B1,2026-09-30 17:51,Picked Up
+ORD1044,SpeedEx,Staging B1,2026-10-03 13:51,Picked Up
+ORD1045,QuickShip,Staging A1,2026-10-02 06:51,Picked Up
+ORD1047,SpeedEx,Staging A2,2026-10-03 16:51,Waiting
+ORD1048,SpeedEx,Staging B1,2026-09-30 12:51,At Risk
+ORD1049,QuickShip,Staging B1,2026-10-02 11:51,Picked Up
+ORD1050,QuickShip,Staging A1,2026-10-03 02:51,Picked Up
+ORD1051,QuickShip,Staging A2,2026-10-01 13:51,Waiting
+ORD1058,SpeedEx,Staging A1,2026-10-02 03:51,Waiting
+ORD1062,ParcelGo,Staging A2,2026-10-03 16:51,Waiting
+ORD1063,QuickShip,Staging B1,2026-09-30 05:51,Picked Up
+ORD1064,ParcelGo,Staging B1,2026-10-01 01:51,Waiting
+ORD1065,SpeedEx,Staging A2,2026-09-30 02:51,Waiting
+ORD1070,SpeedEx,Staging A2,2026-09-29 21:51,Waiting
+ORD1075,QuickShip,Staging A1,2026-10-04 11:51,Picked Up
+ORD1076,SpeedEx,Staging A2,2026-10-05 04:51,Picked Up
+ORD1081,ParcelGo,Staging B1,2026-10-01 21:51,Missed
+ORD1082,SpeedEx,Staging A2,2026-10-02 00:51,Waiting
+ORD1084,ParcelGo,Staging A1,2026-10-02 10:51,Picked Up
+ORD1093,QuickShip,Staging A1,2026-09-30 23:51,Waiting
+ORD1094,QuickShip,Staging B1,2026-10-03 20:51,Waiting
+ORD1095,SpeedEx,Staging B1,2026-10-01 07:51,At Risk
+ORD1096,QuickShip,Staging B1,2026-09-30 09:51,Picked Up

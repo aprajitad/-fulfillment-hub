@@ -1,0 +1,101 @@
+order_id,customer,order_date,priority,deadline,status,sku,product_name,variant,quantity,warehouse_location,courier,is_blocked_by_inventory,is_delayed
+ORD1001,Customer 7,2026-09-29 12:51,False,2026-10-02 01:51,Shipped,P102,Mechanical Keyboard,Standard,3,main,QuickShip,False,False
+ORD1002,Customer 47,2026-09-28 21:51,True,2026-09-29 21:51,Picking,P101B,Wireless Mouse,White,2,main,SpeedEx,False,True
+ORD1003,Customer 40,2026-09-28 14:51,True,2026-09-29 14:51,Packing,P107,Phone Charger 20W,Black,3,main,ParcelGo,False,True
+ORD1004,Customer 6,2026-10-01 15:51,True,2026-10-02 15:51,Shipped,P105,Webcam HD,Black,3,main,QuickShip,False,False
+ORD1005,Customer 14,2026-09-27 20:51,False,2026-09-30 19:51,Processing,P103,USB-C Hub,Silver,1,main,QuickShip,True,True
+ORD1006,Customer 16,2026-09-30 21:51,False,2026-10-04 13:51,Processing,P110,Monitor Arm,Silver,2,main,ParcelGo,True,False
+ORD1007,Customer 15,2026-09-29 19:51,False,2026-10-02 15:51,Staging,P102,Mechanical Keyboard,Standard,2,main,SpeedEx,False,False
+ORD1008,Customer 14,2026-10-01 10:51,False,2026-10-04 22:51,Shipped,P101,Wireless Mouse,Black,2,main,QuickShip,False,False
+ORD1009,Customer 36,2026-09-28 12:51,False,2026-10-01 04:51,Processing,P110,Monitor Arm,Silver,2,main,ParcelGo,True,True
+ORD1010,Customer 33,2026-09-27 22:51,False,2026-09-30 23:51,Picking,P108,Bluetooth Speaker,Blue,2,main,SpeedEx,False,True
+ORD1011,Customer 28,2026-10-01 12:51,False,2026-10-05 04:51,Processing,P107,Phone Charger 20W,Black,1,main,ParcelGo,False,False
+ORD1012,Customer 44,2026-09-28 00:51,False,2026-09-30 16:51,Shipped,P109,Noise Cancelling Headphones,Black,1,main,SpeedEx,False,False
+ORD1013,Customer 11,2026-09-28 20:51,False,2026-10-01 17:51,Picking,P101B,Wireless Mouse,White,3,main,QuickShip,False,False
+ORD1014,Customer 56,2026-09-29 00:51,False,2026-10-03 00:51,Processing,P107,Phone Charger 20W,Black,1,main,SpeedEx,False,False
+ORD1015,Customer 50,2026-09-30 12:51,False,2026-10-03 11:51,Staging,P110,Monitor Arm,Silver,2,main,ParcelGo,False,False
+ORD1016,Customer 16,2026-09-28 16:51,False,2026-09-30 23:51,Shipped,P108,Bluetooth Speaker,Blue,1,main,QuickShip,False,False
+ORD1017,Customer 49,2026-10-01 14:51,False,2026-10-05 12:51,Picking,P101,Wireless Mouse,Black,1,main,SpeedEx,False,False
+ORD1018,Customer 56,2026-09-27 23:51,True,2026-09-28 23:51,Processing,P108,Bluetooth Speaker,Blue,1,main,ParcelGo,False,True
+ORD1019,Customer 42,2026-09-29 18:51,False,2026-10-02 13:51,Picking,P109,Noise Cancelling Headphones,Black,2,main,ParcelGo,False,False
+ORD1020,Customer 2,2026-09-28 13:51,False,2026-10-01 04:51,Processing,P105,Webcam HD,Black,2,main,QuickShip,True,True
+ORD1021,Customer 15,2026-09-30 16:51,False,2026-10-02 20:51,Staging,P109,Noise Cancelling Headphones,Black,3,main,SpeedEx,False,False
+ORD1022,Customer 14,2026-10-01 00:51,False,2026-10-03 15:51,Picking,P101B,Wireless Mouse,White,1,main,QuickShip,False,False
+ORD1023,Customer 7,2026-09-28 09:51,False,2026-10-01 15:51,Staging,P108,Bluetooth Speaker,Blue,1,main,SpeedEx,False,True
+ORD1024,Customer 44,2026-09-28 03:51,False,2026-10-01 08:51,Shipped,P101B,Wireless Mouse,White,3,main,SpeedEx,False,False
+ORD1025,Customer 16,2026-09-27 17:51,True,2026-09-28 17:51,Picking,P110,Monitor Arm,Silver,3,main,SpeedEx,False,True
+ORD1026,Customer 56,2026-09-30 03:51,False,2026-10-02 14:51,Packing,P103,USB-C Hub,Silver,1,main,SpeedEx,False,False
+ORD1027,Customer 6,2026-10-01 15:51,False,2026-10-05 08:51,Shipped,P101B,Wireless Mouse,White,2,main,SpeedEx,False,False
+ORD1028,Customer 25,2026-09-28 10:51,False,2026-10-01 11:51,Shipped,P103,USB-C Hub,Silver,1,main,SpeedEx,False,False
+ORD1029,Customer 51,2026-09-28 07:51,False,2026-10-01 10:51,Packing,P101,Wireless Mouse,Black,2,main,ParcelGo,False,True
+ORD1030,Customer 38,2026-09-30 10:51,False,2026-10-03 04:51,Processing,P108,Bluetooth Speaker,Blue,3,main,SpeedEx,False,False
+ORD1031,Customer 11,2026-10-01 15:51,False,2026-10-05 04:51,Picking,P108,Bluetooth Speaker,Blue,1,main,ParcelGo,False,False
+ORD1032,Customer 56,2026-09-30 14:51,True,2026-10-01 14:51,Packing,P101,Wireless Mouse,Black,3,main,ParcelGo,False,True
+ORD1033,Customer 6,2026-09-29 22:51,True,2026-09-30 22:51,Packing,P103,USB-C Hub,Silver,2,main,ParcelGo,False,True
+ORD1034,Customer 16,2026-09-29 08:51,False,2026-10-01 21:51,Packing,P106,Desk Lamp,White,3,main,QuickShip,False,False
+ORD1035,Customer 1,2026-09-29 02:51,True,2026-09-30 02:51,Picking,P104,Laptop Stand,Grey,2,main,SpeedEx,False,True
+ORD1036,Customer 9,2026-10-01 14:51,False,2026-10-05 00:51,Processing,P107,Phone Charger 20W,Black,3,main,QuickShip,False,False
+ORD1037,Customer 46,2026-09-29 07:51,False,2026-10-01 17:51,Picking,P105,Webcam HD,Black,1,main,ParcelGo,False,False
+ORD1038,Customer 7,2026-09-30 19:51,False,2026-10-04 06:51,Picking,P104,Laptop Stand,Grey,3,main,ParcelGo,False,False
+ORD1039,Customer 19,2026-09-30 17:51,True,2026-10-01 17:51,Packing,P102,Mechanical Keyboard,Standard,2,main,QuickShip,False,False
+ORD1040,Customer 32,2026-09-29 19:51,False,2026-10-03 11:51,Shipped,P109,Noise Cancelling Headphones,Black,1,main,ParcelGo,False,False
+ORD1041,Customer 50,2026-09-28 08:51,True,2026-09-29 08:51,Order Received,P104,Laptop Stand,Grey,1,main,QuickShip,False,True
+ORD1042,Customer 36,2026-09-29 17:51,False,2026-10-02 21:51,Packing,P102,Mechanical Keyboard,Standard,3,main,QuickShip,False,False
+ORD1043,Customer 38,2026-09-29 23:51,True,2026-09-30 23:51,Order Received,P101,Wireless Mouse,Black,1,main,QuickShip,False,True
+ORD1044,Customer 58,2026-10-01 07:51,False,2026-10-04 06:51,Shipped,P108,Bluetooth Speaker,Blue,1,main,SpeedEx,False,False
+ORD1045,Customer 40,2026-10-01 05:51,False,2026-10-04 16:51,Shipped,P105,Webcam HD,Black,1,main,QuickShip,False,False
+ORD1046,Customer 51,2026-09-30 03:51,False,2026-10-02 04:51,Processing,P102,Mechanical Keyboard,Standard,1,main,QuickShip,False,False
+ORD1047,Customer 25,2026-09-30 08:51,False,2026-10-02 18:51,Staging,P106,Desk Lamp,White,3,main,SpeedEx,False,False
+ORD1048,Customer 15,2026-09-28 05:51,False,2026-10-01 00:51,Staging,P101,Wireless Mouse,Black,2,main,SpeedEx,False,True
+ORD1049,Customer 23,2026-09-29 08:51,True,2026-09-30 08:51,Shipped,P101,Wireless Mouse,Black,3,main,QuickShip,False,False
+ORD1050,Customer 12,2026-09-29 16:51,False,2026-10-01 23:51,Shipped,P110,Monitor Arm,Silver,3,main,QuickShip,False,False
+ORD1051,Customer 28,2026-09-28 05:51,True,2026-09-29 05:51,Staging,P109,Noise Cancelling Headphones,Black,2,main,QuickShip,False,True
+ORD1052,Customer 1,2026-09-30 08:51,True,2026-10-01 08:51,Order Received,P109,Noise Cancelling Headphones,Black,3,main,QuickShip,False,True
+ORD1053,Customer 59,2026-09-30 05:51,False,2026-10-03 08:51,Order Received,P108,Bluetooth Speaker,Blue,3,main,ParcelGo,False,False
+ORD1054,Customer 27,2026-09-30 17:51,False,2026-10-03 12:51,Packing,P105,Webcam HD,Black,3,main,ParcelGo,False,False
+ORD1055,Customer 44,2026-09-30 10:51,False,2026-10-03 12:51,Packing,P105,Webcam HD,Black,2,main,QuickShip,False,False
+ORD1056,Customer 28,2026-09-27 23:51,False,2026-09-29 23:51,Picking,P102,Mechanical Keyboard,Standard,3,main,SpeedEx,False,True
+ORD1057,Customer 31,2026-09-28 02:51,False,2026-10-01 06:51,Packing,P109,Noise Cancelling Headphones,Black,3,main,ParcelGo,False,True
+ORD1058,Customer 44,2026-09-29 14:51,True,2026-09-30 14:51,Staging,P102,Mechanical Keyboard,Standard,3,main,SpeedEx,False,True
+ORD1059,Customer 40,2026-09-30 16:51,False,2026-10-02 18:51,Processing,P104,Laptop Stand,Grey,1,main,QuickShip,False,False
+ORD1060,Customer 16,2026-09-29 18:51,False,2026-10-03 14:51,Picking,P101B,Wireless Mouse,White,2,main,QuickShip,False,False
+ORD1061,Customer 34,2026-10-01 03:51,False,2026-10-03 17:51,Processing,P102,Mechanical Keyboard,Standard,3,main,ParcelGo,False,False
+ORD1062,Customer 34,2026-10-01 02:51,False,2026-10-03 10:51,Staging,P107,Phone Charger 20W,Black,1,main,ParcelGo,False,False
+ORD1063,Customer 54,2026-09-27 21:51,False,2026-10-01 19:51,Shipped,P108,Bluetooth Speaker,Blue,3,main,QuickShip,False,False
+ORD1064,Customer 18,2026-09-28 02:51,False,2026-09-30 18:51,Staging,P108,Bluetooth Speaker,Blue,2,main,ParcelGo,False,True
+ORD1065,Customer 18,2026-09-29 02:51,False,2026-10-01 06:51,Staging,P108,Bluetooth Speaker,Blue,2,main,SpeedEx,False,True
+ORD1066,Customer 10,2026-10-01 12:51,False,2026-10-03 21:51,Processing,P105,Webcam HD,Black,2,main,ParcelGo,True,False
+ORD1067,Customer 54,2026-09-28 23:51,False,2026-10-02 04:51,Picking,P103,USB-C Hub,Silver,1,main,SpeedEx,False,False
+ORD1068,Customer 20,2026-09-30 22:51,False,2026-10-03 22:51,Picking,P106,Desk Lamp,White,2,main,QuickShip,False,False
+ORD1069,Customer 2,2026-09-30 01:51,False,2026-10-02 15:51,Picking,P106,Desk Lamp,White,2,main,QuickShip,False,False
+ORD1070,Customer 40,2026-09-27 17:51,False,2026-09-30 03:51,Staging,P106,Desk Lamp,White,2,main,SpeedEx,False,True
+ORD1071,Customer 12,2026-10-01 14:51,False,2026-10-05 07:51,Picking,P108,Bluetooth Speaker,Blue,1,main,QuickShip,False,False
+ORD1072,Customer 18,2026-09-30 02:51,False,2026-10-02 22:51,Picking,P101,Wireless Mouse,Black,2,main,QuickShip,False,False
+ORD1073,Customer 15,2026-09-28 16:51,False,2026-10-02 15:51,Packing,P106,Desk Lamp,White,2,main,QuickShip,False,False
+ORD1074,Customer 40,2026-10-01 16:51,False,2026-10-04 07:51,Processing,P110,Monitor Arm,Silver,1,main,SpeedEx,True,False
+ORD1075,Customer 45,2026-09-30 22:51,True,2026-10-01 22:51,Shipped,P102,Mechanical Keyboard,Standard,1,main,QuickShip,False,False
+ORD1076,Customer 38,2026-10-01 11:51,True,2026-10-02 11:51,Shipped,P104,Laptop Stand,Grey,2,main,SpeedEx,False,False
+ORD1077,Customer 45,2026-09-28 04:51,False,2026-10-02 01:51,Processing,P101,Wireless Mouse,Black,2,main,ParcelGo,False,False
+ORD1078,Customer 51,2026-09-28 19:51,True,2026-09-29 19:51,Packing,P110,Monitor Arm,Silver,1,main,SpeedEx,False,True
+ORD1079,Customer 22,2026-09-27 19:51,False,2026-09-30 18:51,Order Received,P109,Noise Cancelling Headphones,Black,1,main,ParcelGo,False,True
+ORD1080,Customer 46,2026-10-01 03:51,False,2026-10-04 02:51,Packing,P101,Wireless Mouse,Black,2,main,QuickShip,False,False
+ORD1081,Customer 50,2026-09-28 21:51,True,2026-09-29 21:51,Staging,P102,Mechanical Keyboard,Standard,2,main,ParcelGo,False,True
+ORD1082,Customer 18,2026-09-29 06:51,False,2026-10-01 21:51,Staging,P107,Phone Charger 20W,Black,2,main,SpeedEx,False,False
+ORD1083,Customer 12,2026-09-28 06:51,False,2026-09-30 07:51,Picking,P107,Phone Charger 20W,Black,1,main,QuickShip,False,True
+ORD1084,Customer 57,2026-09-29 06:51,False,2026-10-01 23:51,Shipped,P107,Phone Charger 20W,Black,1,main,ParcelGo,False,False
+ORD1085,Customer 32,2026-09-30 14:51,True,2026-10-01 14:51,Processing,P104,Laptop Stand,Grey,3,main,QuickShip,False,True
+ORD1086,Customer 26,2026-09-28 02:51,False,2026-09-30 03:51,Order Received,P108,Bluetooth Speaker,Blue,1,main,SpeedEx,False,True
+ORD1087,Customer 48,2026-09-29 01:51,False,2026-10-02 12:51,Packing,P103,USB-C Hub,Silver,2,main,QuickShip,False,False
+ORD1088,Customer 47,2026-09-28 08:51,False,2026-10-01 03:51,Picking,P108,Bluetooth Speaker,Blue,2,main,SpeedEx,False,True
+ORD1089,Customer 18,2026-09-30 10:51,True,2026-10-01 10:51,Processing,P103,USB-C Hub,Silver,2,main,QuickShip,True,True
+ORD1090,Customer 20,2026-10-01 10:51,False,2026-10-04 04:51,Processing,P109,Noise Cancelling Headphones,Black,3,main,SpeedEx,False,False
+ORD1091,Customer 9,2026-09-29 15:51,False,2026-10-01 18:51,Packing,P101,Wireless Mouse,Black,3,main,ParcelGo,False,False
+ORD1092,Customer 29,2026-09-30 22:51,True,2026-10-01 22:51,Picking,P110,Monitor Arm,Silver,2,main,QuickShip,False,False
+ORD1093,Customer 32,2026-09-29 01:51,False,2026-10-01 08:51,Staging,P105,Webcam HD,Black,1,main,QuickShip,False,True
+ORD1094,Customer 6,2026-10-01 12:51,False,2026-10-03 21:51,Staging,P101B,Wireless Mouse,White,3,main,QuickShip,False,False
+ORD1095,Customer 50,2026-09-27 21:51,False,2026-10-01 11:51,Staging,P103,USB-C Hub,Silver,1,main,SpeedEx,False,True
+ORD1096,Customer 37,2026-09-28 07:51,False,2026-10-01 20:51,Shipped,P108,Bluetooth Speaker,Blue,2,main,QuickShip,False,False
+ORD1097,Customer 6,2026-10-01 10:51,False,2026-10-05 02:51,Processing,P109,Noise Cancelling Headphones,Black,1,main,ParcelGo,False,False
+ORD1098,Customer 45,2026-10-01 11:51,True,2026-10-02 11:51,Order Received,P102,Mechanical Keyboard,Standard,1,main,QuickShip,False,False
+ORD1099,Customer 5,2026-09-30 07:51,False,2026-10-04 04:51,Picking,P109,Noise Cancelling Headphones,Black,2,main,QuickShip,False,False
+ORD1100,Customer 10,2026-09-30 03:51,False,2026-10-02 10:51,Packing,P110,Monitor Arm,Silver,1,main,ParcelGo,False,False
