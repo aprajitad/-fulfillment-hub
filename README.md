@@ -4,6 +4,8 @@ A simple, operational tool that helps an e-commerce business (XYZ) manage its or
 
 **🔗 Live app:** https://fulfillment-xyz.streamlit.app/
 
+*Note: this app is hosted on Streamlit Community Cloud's free tier, so if it hasn't been visited recently, it may take 10–20 seconds to "wake up" on first load. If you see a loading/preparing screen, just wait a moment and it'll come up.*
+
 ## The problem
 
 XYZ currently runs fulfillment using spreadsheets and shared folders. As order volume has grown, this has become hard to manage:
